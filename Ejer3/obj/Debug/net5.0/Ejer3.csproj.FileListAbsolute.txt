@@ -1,0 +1,16 @@
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\bin\Debug\net5.0\Ejer3.exe
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\bin\Debug\net5.0\Ejer3.deps.json
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\bin\Debug\net5.0\Ejer3.runtimeconfig.json
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\bin\Debug\net5.0\Ejer3.runtimeconfig.dev.json
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\bin\Debug\net5.0\Ejer3.dll
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\bin\Debug\net5.0\Ejer3.pdb
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\Ejer3.csproj.AssemblyReference.cache
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\Ejer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\Ejer3.AssemblyInfoInputs.cache
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\Ejer3.AssemblyInfo.cs
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\Ejer3.csproj.CoreCompileInputs.cache
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\Ejer3.dll
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\refint\Ejer3.dll
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\Ejer3.pdb
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\Ejer3.genruntimeconfig.cache
+C:\Users\lades\source\repos\POO\Ejer3\Ejer3\obj\Debug\net5.0\ref\Ejer3.dll
